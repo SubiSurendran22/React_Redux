@@ -4,6 +4,8 @@ import { deleteExpense } from '../actions';
 import { addExpense } from '../actions';
 import './ExpenseEntryItemList.css';
 
+//Git changes
+
 class ExpenseEntryItemList extends React.Component {
   constructor(props) {
     super(props);
